@@ -1,2 +1,2 @@
 # S1-Test1
-Scenario One - GitHub to Personal Computer
+Scenario One - GitHub to Local machine (Personal Computer)
